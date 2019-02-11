@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMessages</string>
+    <string name="zeroHourAgo">0 hours ago</string>
+    <string name="oneHourAgo">1 hours ago</string>
+    <string name="twoHourAgo">2 hours ago</string>
+    <string name="threeHourAgo">3 hours ago</string>
+    <string name="sixHourAgo">6 hours ago</string>
+    <string name="twelveHourAgo">12 hours ago</string>
+    <string name="oneDayAgo">1 day ago</string>
+    <string name="requestPermission">Please provide permission to read SMS, otherwise we can\'t fetch your SMS</string>
+    <string name="throughNotification">throughNotification</string>
+    <string name="dateFormat">dd/MM/yyyy hh:mm:ss</string>
+</resources>
